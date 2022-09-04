@@ -1,2 +1,2 @@
 
-<img src="horizontal.svg"/>
+<img src="../horizontal.svg"/>
